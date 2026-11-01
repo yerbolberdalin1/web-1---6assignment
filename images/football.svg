@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <defs><pattern id="grass" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#2f5340"/><rect width="20" height="40" fill="#345b45"/></pattern></defs>
+  <rect width="400" height="280" fill="url(#grass)"/>
+  <g stroke="#89a88b" stroke-width="3" fill="none"><rect x="35" y="30" width="330" height="220"/><path d="M35 140h330M130 30v50h140V30M130 250v-50h140v50"/><circle cx="200" cy="140" r="47"/></g>
+  <circle cx="200" cy="140" r="13" fill="#eeeeda"/><path d="m200 131 8 6-3 9h-10l-3-9Z" fill="#21362d"/>
+</svg>
